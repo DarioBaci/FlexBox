@@ -1,0 +1,49 @@
+.home{
+
+                margin-right: 50px;
+            }
+
+            .search{
+                margin-right: 50px;
+                max-width: 500px;
+                flex: 1;
+
+            }
+
+            .t1{
+                width: 500px;
+                
+            }
+            
+            span{
+                font-family: arial;
+                font-weight: bold;
+                
+            }
+
+            input{
+                font-family: arial;
+                font-weight: bold;
+                border-radius: 50px;
+                padding:10px 25px 10px 25px;
+            }
+
+            button{
+                font-family: arial;
+                font-weight: bold;
+                
+            }
+
+            .header{
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                background-color: rgb(71, 38, 190);
+                padding: 10px 20px 10px 20px;
+                color: white;
+
+            }
+
+            .b1{
+                align-items: center;
+            }
