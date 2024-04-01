@@ -1,0 +1,36 @@
+            .flexbox{
+                display: flex;
+                margin-top: 20px;
+            }
+
+            .item1{
+                background-color: lightcoral;
+                width: 200px;
+            }
+
+            .item2{
+                background-color: lightblue;
+                flex: 1;
+            }
+
+            .pink{
+                background-color: lightpink;
+                display: flex;
+                width: 200px;
+            }
+
+            .row2{
+                display: flex;
+                width: 200px;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+
+            .blue{
+                background-color: blue;
+            }
+
+            .row2-items{
+                background-color: black;
+                color: white;
+            }
